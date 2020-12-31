@@ -1,0 +1,54 @@
+#header{
+    font-family: 'Euphoria Script', cursive;
+    font-size: 80px;
+}
+
+#leftRose{
+    position: relative;
+    left: 0;
+}
+
+#formRow{
+    background-color: #f562e9;
+    color: white;
+    border-radius: 12px;
+}
+
+#nameField{
+    margin-top: 30px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#nameInput{
+    border-radius: 12px;
+}
+
+#yesCheckbox{
+    margin-top: 30px;
+    text-align: center;
+}
+
+#noCheckbox{
+    margin-top: 30px;
+    text-align: center;
+}
+
+#submitRow{
+    margin-top: 30px;
+    text-align: center;
+}
+
+#submitBtn{
+    color: white;
+    border-color: white;
+    border-radius: 12px;
+    height: 40px;
+    width: 100px;
+    background: transparent;
+}
+
+#rightRose{
+    position: relative;
+    left: 175px
+}
